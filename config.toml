@@ -1,0 +1,4 @@
+baseURL = 'https://blog.aroquega.com/'
+languageCode = 'en-us'
+title = 'Jazzing Code'
+theme = 'holy'
